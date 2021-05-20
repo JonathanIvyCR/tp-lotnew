@@ -43741,7 +43741,7 @@ Y.hI.prototype={
 aW:function(){return new Y.BE(C.o)}}
 Y.BE.prototype={
 R:function(a,b){var s=null,r=C.P.h(0,300)
-return M.a1s(M.Hr(s,T.a_R(T.z3(C.ci,H.a([new T.kw(new K.cy(0,-0.5),s,s,D.JP(s,L.a1D("Tiempos",A.qw(s,s,C.j,s,s,s,s,s,s,s,s,40,s,s,s,s,!0,s,s,s,s,s,s,s)),C.aD,!1,s,s,s,s,s,s,s,s,s,s,new Y.SY(b),s,s,s,s,s),s)],t.i),C.ca),s,new B.zg(s)),r,s,100,s,s,700))}}
+return M.a1s(M.Hr(s,T.a_R(T.z3(C.ci,H.a([new T.kw(new K.cy(0,-0.5),s,s,D.JP(s,L.a1D("Tiempos Lalala",A.qw(s,s,C.j,s,s,s,s,s,s,s,s,40,s,s,s,s,!0,s,s,s,s,s,s,s)),C.aD,!1,s,s,s,s,s,s,s,s,s,s,new Y.SY(b),s,s,s,s,s),s)],t.i),C.ca),s,new B.zg(s)),r,s,100,s,s,700))}}
 Y.SY.prototype={
 $0:function(){K.wR(this.a).tw("/tiempos",t.X)},
 $S:0}
